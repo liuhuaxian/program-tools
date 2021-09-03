@@ -1,0 +1,2 @@
+msgid "hello world"
+msgstr "你好，世界"
