@@ -1,17 +1,3 @@
-/*
- * routines to crypt license file using DES algorithm.
- * requires libcrypto.
- *
- * to compile:
- *   gcc -o ./crypt ./crypt.c /usr/lib/libcrypto.a /usr/lib/libdl.a
- * to run:
- *   ./crypt -e ./love.txt ./love.out love
- *   ./crypt -d ./love.out  ./love.org love
- *
- * performance:
- *   on Celeron 1.7G, took 20s to encrypt a 64M file.
- */
-
 #include <stdio.h>
 #include <openssl/evp.h>
 #include <string.h>
@@ -186,7 +172,7 @@ int decrypt_file(const char* filename, const char* passwd,
     return 0;
 }
 
-#if 0 /* testing */
+#if 1 /* testing */
 
 #include <sys/types.h>
 #include <sys/stat.h>
