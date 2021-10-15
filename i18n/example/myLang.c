@@ -13,7 +13,8 @@ int main()
 	bindtextdomain("test", "Lang/locale");
 	textdomain("test");
 
-	setlocale(LC_ALL, "zh_CN.UTF-8");
+//	setlocale(LC_ALL, "zh_CN.UTF-8");
+	setlocale(LC_ALL, "en_CA.utf8");
 
 	char notice[200] = {0};
 	sprintf(notice, "%s", _("hello world"));
