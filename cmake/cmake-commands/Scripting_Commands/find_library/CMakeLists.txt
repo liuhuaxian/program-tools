@@ -1,0 +1,6 @@
+find_library(result NAMES lhxglib)
+if(result)
+	message("-----${result}----")
+else()
+	message("---not found--${result}----")
+endif()

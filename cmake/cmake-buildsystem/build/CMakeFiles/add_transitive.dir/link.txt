@@ -1,0 +1,2 @@
+/usr/bin/ar qc libadd_transitive.a CMakeFiles/add_transitive.dir/add.o
+/usr/bin/ranlib libadd_transitive.a

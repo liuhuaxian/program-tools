@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/target_compile_features",
+  "command": "/usr/bin/cc    -o CMakeFiles/main.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/target_compile_features/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/target_compile_features/main.c"
+}
+]

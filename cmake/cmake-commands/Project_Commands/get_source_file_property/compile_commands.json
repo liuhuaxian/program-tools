@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/get_source_file_property",
+  "command": "/usr/bin/cc  -DDEFINE_A   -o CMakeFiles/main.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/get_source_file_property/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/get_source_file_property/main.c"
+}
+]

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/add_compile_options",
+  "command": "/usr/bin/cc   -std=c++11 -DDEFINE_A -o CMakeFiles/main.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/add_compile_options/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/add_compile_options/main.c"
+}
+]

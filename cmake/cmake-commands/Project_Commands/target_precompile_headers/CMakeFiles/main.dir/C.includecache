@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/target_precompile_headers/CMakeFiles/main.dir/cmake_pch.h
+stddef.h
+-
+
+/home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/target_precompile_headers/CMakeFiles/main.dir/cmake_pch.h.c
+
+/home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/target_precompile_headers/main.c
+stdio.h
+-
+

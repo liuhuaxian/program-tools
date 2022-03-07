@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -DNDEBUG -rdynamic CMakeFiles/main_interface_properties.dir/main.o -o main_interface_properties  -Wl,-rpath,/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build libmath_interface_properties.so 

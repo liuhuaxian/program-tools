@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -DNDEBUG -rdynamic CMakeFiles/main_transitive.dir/main.o -o main_transitive  libmath_transitive.a libadd_transitive.a libdiv_transitive.a 

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -O2 -DNDEBUG -shared -Wl,-soname,libmath_share.so -o libmath_share.so CMakeFiles/math_share.dir/add.o CMakeFiles/math_share.dir/sub.o 

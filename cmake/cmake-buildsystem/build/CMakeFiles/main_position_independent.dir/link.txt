@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -DNDEBUG -rdynamic CMakeFiles/main_position_independent.dir/main.o CMakeFiles/main_position_independent.dir/add.o -o main_position_independent 

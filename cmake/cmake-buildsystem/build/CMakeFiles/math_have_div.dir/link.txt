@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -O2 -DNDEBUG -shared -Wl,-soname,libmath_have_div.so -o libmath_have_div.so CMakeFiles/math_have_div.dir/add.o CMakeFiles/math_have_div.dir/sub.o CMakeFiles/math_have_div.dir/div.o 

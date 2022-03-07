@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -DNDEBUG -rdynamic CMakeFiles/exe2.dir/main.o -o exe2  -Wl,-rpath,/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build liblib1.so liblib2.so 

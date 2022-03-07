@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -DNDEBUG -rdynamic CMakeFiles/uncompatible_main.dir/main.o -o uncompatible_main  -Wl,-rpath,/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build liblib1Version2.so liblib1Version3.so 

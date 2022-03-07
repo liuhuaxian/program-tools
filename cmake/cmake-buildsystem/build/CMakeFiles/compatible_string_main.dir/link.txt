@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -DNDEBUG -rdynamic CMakeFiles/compatible_string_main.dir/main.o -o compatible_string_main  -Wl,-rpath,/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build libaddVersion2.so 

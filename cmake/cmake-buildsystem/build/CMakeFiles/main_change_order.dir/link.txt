@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -DNDEBUG -rdynamic CMakeFiles/main_change_order.dir/main.o -o main_change_order  libdiv_transitive.a libadd_transitive.a libmath_transitive.a libdiv_transitive.a libadd_transitive.a 

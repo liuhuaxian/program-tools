@@ -7,7 +7,8 @@
 #include <arpa/inet.h>
 #include <unistd.h>
 
-#define SERVERIP "127.0.0.1"
+//#define SERVERIP "127.0.0.1"
+#define SERVERIP "192.168.80.179"
 #define SERVERPORT 12345
 #define MAXBUFFER 256
  

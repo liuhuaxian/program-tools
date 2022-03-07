@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -O2 -DNDEBUG -shared -Wl,-soname,libMyFramework.so -o libMyFramework.so CMakeFiles/MyFramework.dir/add.o CMakeFiles/MyFramework.dir/sub.o 

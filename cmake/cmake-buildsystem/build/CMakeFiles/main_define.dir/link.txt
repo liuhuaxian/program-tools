@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -DNDEBUG -rdynamic CMakeFiles/main_define.dir/main.o -o main_define  -Wl,-rpath,/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build libmath_have_div.so 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmath_use_object.a CMakeFiles/math_use_object.dir/sub.o CMakeFiles/math_object.dir/add.o
+/usr/bin/ranlib libmath_use_object.a

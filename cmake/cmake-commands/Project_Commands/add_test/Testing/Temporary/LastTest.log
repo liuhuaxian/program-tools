@@ -1,0 +1,20 @@
+Start testing: Mar 04 16:28 CST
+----------------------------------------------------------
+1/1 Testing: test1
+1/1 Test: test1
+Command: "/home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/add_test/main"
+Directory: /home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/add_test
+"test1" start time: Mar 04 16:28 CST
+Output:
+----------------------------------------------------------
+in main
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[in main]
+"test1" end time: Mar 04 16:28 CST
+"test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 04 16:28 CST

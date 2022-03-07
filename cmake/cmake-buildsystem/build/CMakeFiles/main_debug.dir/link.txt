@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -DNDEBUG -rdynamic CMakeFiles/main_debug.dir/main.o CMakeFiles/main_debug.dir/add.o CMakeFiles/main_debug.dir/div.o -o main_debug 

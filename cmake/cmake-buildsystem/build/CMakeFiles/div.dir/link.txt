@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdiv.a CMakeFiles/div.dir/div.o
+/usr/bin/ranlib libdiv.a

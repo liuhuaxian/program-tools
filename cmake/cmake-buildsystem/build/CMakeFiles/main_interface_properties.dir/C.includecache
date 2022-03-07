@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.h
+
+/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c
+add.h
+/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.h
+sub.h
+/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.h
+stdio.h
+-
+
+/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.h
+

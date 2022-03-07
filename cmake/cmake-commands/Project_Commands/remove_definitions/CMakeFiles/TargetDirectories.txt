@@ -1,0 +1,3 @@
+/home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/remove_definitions/CMakeFiles/rebuild_cache.dir
+/home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/remove_definitions/CMakeFiles/main.dir
+/home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/remove_definitions/CMakeFiles/edit_cache.dir

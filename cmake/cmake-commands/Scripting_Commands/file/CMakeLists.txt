@@ -1,0 +1,5 @@
+file(WRITE lhxtest "hello world")
+file(APPEND lhxtest "\r\nhello yll\r\n")
+file(RENAME lhxtest ylltest)
+file(TOUCH test)
+file(REMOVE test)

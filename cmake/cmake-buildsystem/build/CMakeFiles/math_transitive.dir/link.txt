@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmath_transitive.a CMakeFiles/math_transitive.dir/sub.o
+/usr/bin/ranlib libmath_transitive.a

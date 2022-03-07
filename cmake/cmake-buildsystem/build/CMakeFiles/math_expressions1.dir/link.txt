@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmath_expressions1.a CMakeFiles/math_expressions1.dir/add.o CMakeFiles/math_expressions1.dir/sub.o
+/usr/bin/ranlib libmath_expressions1.a

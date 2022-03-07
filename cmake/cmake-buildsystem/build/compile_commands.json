@@ -1,0 +1,242 @@
+[
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -DUSING_ARCHIVE_LIB  -O2 -DNDEBUG -o CMakeFiles/main_define.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -o CMakeFiles/main_link_object.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -o CMakeFiles/math_expressions1.dir/add.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -o CMakeFiles/math_expressions1.dir/sub.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -o CMakeFiles/main_object.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -Dlib2_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/lib2.dir/sub.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -o CMakeFiles/math_use_object.dir/sub.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -DHAVE_ADD_MODIFY -DHAVE_A_ADD_TEN  -O2 -DNDEBUG -o CMakeFiles/main_change_order.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -Dlib1Version3_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/lib1Version3.dir/sub.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -DHAVE_ADD_MODIFY -DHAVE_A_ADD_TEN  -O2 -DNDEBUG -o CMakeFiles/main_transitive.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -o CMakeFiles/math.dir/add.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -o CMakeFiles/math.dir/sub.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -Dmath_module_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/math_module.dir/add.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -Dmath_module_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/math_module.dir/sub.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -o CMakeFiles/add_transitive.dir/add.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -Dmath_share_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/math_share.dir/add.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -Dmath_share_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/math_share.dir/sub.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -o CMakeFiles/main.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -DsubVersion3_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/subVersion3.dir/sub.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -DLIB1_WITH_EXE  -O2 -DNDEBUG -o CMakeFiles/main_executable.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -DMyFramework_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/MyFramework.dir/add.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -DMyFramework_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/MyFramework.dir/sub.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -o CMakeFiles/math_object.dir/add.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -fPIE -o CMakeFiles/main_position_independent.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -fPIE -o CMakeFiles/main_position_independent.dir/add.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -Dlib1_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/lib1.dir/add.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -o CMakeFiles/exe1.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -o CMakeFiles/compatible_main.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -Dlib1Version2_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/lib1Version2.dir/add.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -fPIE -o CMakeFiles/exe2.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -o CMakeFiles/uncompatible_string_main.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -fPIE -o CMakeFiles/main_interface_properties.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -o CMakeFiles/uncompatible_main.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -DHAVE_A_ADD_TEN -Dmath_have_div_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/math_have_div.dir/add.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -DHAVE_A_ADD_TEN -Dmath_have_div_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/math_have_div.dir/sub.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -DHAVE_A_ADD_TEN -Dmath_have_div_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/math_have_div.dir/div.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/div.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/div.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -DaddVersion2_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/addVersion2.dir/add.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -o CMakeFiles/compatible_string_main.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -DHAVE_ADD_MODIFY -DHAVE_A_ADD_TEN  -O2 -DNDEBUG -o CMakeFiles/math_transitive.dir/sub.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -Dadd_expressions_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/add_expressions.dir/add.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -Dadd_expressions_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/add_expressions.dir/sub.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -Dadd_expressions_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/add_expressions.dir/div.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/div.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/div.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc   -O2 -DNDEBUG -o CMakeFiles/div_transitive.dir/div.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/div.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/div.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -DCONTAINER_SIZE=200  -O2 -DNDEBUG -o CMakeFiles/main_define_val.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/main.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -Dmath_interface_properties_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/math_interface_properties.dir/add.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/add.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -Dmath_interface_properties_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/math_interface_properties.dir/sub.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/sub.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -Dmath_interface_properties_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/math_interface_properties.dir/div.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/div.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/div.c"
+},
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/build",
+  "command": "/usr/bin/cc -DCONSUMER_CMP0041_NEW -DLIB1_WITH_SHARED_LIB -Dmath_expressions2_EXPORTS  -O2 -DNDEBUG -fPIC -o CMakeFiles/math_expressions2.dir/div.o -c /home/lhx/work/github/program-tools/cmake/cmake-buildsystem/div.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-buildsystem/div.c"
+}
+]

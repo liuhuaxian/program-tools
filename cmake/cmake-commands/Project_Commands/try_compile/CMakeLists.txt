@@ -1,0 +1,1 @@
+try_compile(result CMAKE_CURRENT_SOURCE_DIR CMAKE_CURRENT_SOURCE_DIR main) ##存在问题

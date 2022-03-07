@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/target_include_directories/main.c
+stdio.h
+-
+test.h
+-
+
+sub/test.h
+

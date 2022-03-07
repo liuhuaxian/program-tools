@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/add_compile_definitions",
+  "command": "/usr/bin/cc -DDEFINE_A   -o CMakeFiles/main.dir/main.o -c /home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/add_compile_definitions/main.c",
+  "file": "/home/lhx/work/github/program-tools/cmake/cmake-commands/Project_Commands/add_compile_definitions/main.c"
+}
+]

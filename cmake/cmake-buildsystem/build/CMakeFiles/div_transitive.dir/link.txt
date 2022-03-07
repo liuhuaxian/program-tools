@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdiv_transitive.a CMakeFiles/div_transitive.dir/div.o
+/usr/bin/ranlib libdiv_transitive.a

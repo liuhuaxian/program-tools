@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -DNDEBUG -rdynamic CMakeFiles/main_object.dir/main.o CMakeFiles/math_object.dir/add.o -o main_object 

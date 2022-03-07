@@ -1,0 +1,8 @@
+set(A 0;1)
+set(B 2 3)
+set(C "4 5")
+set(D 6;7 8)
+set(E "")
+foreach(X IN LISTS A B C D E)
+    message(STATUS "X=${X}")
+endforeach()

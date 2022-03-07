@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -O2 -DNDEBUG -shared -Wl,-soname,libsubVersion3.so -o libsubVersion3.so CMakeFiles/subVersion3.dir/sub.o 

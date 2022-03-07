@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -DNDEBUG -rdynamic CMakeFiles/main_executable.dir/main.o -o main_executable  libmath_expressions1.a 
